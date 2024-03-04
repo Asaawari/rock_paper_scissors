@@ -1,1 +1,3 @@
-# rock_paper_scissors
+# Rock Paper Scissors Game
+
+Decode 2024
